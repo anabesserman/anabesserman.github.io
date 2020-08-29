@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Ana Besserman's website 
 
-You can use the [editor on GitHub](https://github.com/anabesserman/anabesserman.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## This website is under construction! Please visit: https://sites.google.com/site/anabesserman/  (August 29, 2020)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Full Name: Ana Elisa Piani Besserman Vianna
 
-### Markdown
+contact: pianibes@usc.edu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a PhD candidate in Linguistics at the University of Southern California. I investigate discourse-level phenomena in language comprehension and production using a variety of experimental methods, such as self-paced reading, eye-tracking and story continuation tasks.
 
-```markdown
-Syntax highlighted code block
+I am currently a member of Elsi Kaiser's Language Processes Lab at USC.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anabesserman/anabesserman.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
