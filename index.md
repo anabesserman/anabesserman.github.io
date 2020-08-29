@@ -1,4 +1,3 @@
-# Ana Besserman's website 
 
 ## ! This website is under construction ! (August 29, 2020)
 
