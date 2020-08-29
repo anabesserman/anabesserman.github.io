@@ -1,8 +1,7 @@
-## Ana Besserman's website 
+# Ana Besserman's website 
 
-## ! This website is under construction ! 
-Please visit: https://sites.google.com/site/anabesserman/  
-August 29, 2020
+## ! This website is under construction ! (August 29, 2020)
+### Please visit: https://sites.google.com/site/anabesserman/  
 
 Full Name: Ana Elisa Piani Besserman Vianna
 
